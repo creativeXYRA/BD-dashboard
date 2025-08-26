@@ -472,4 +472,4 @@ def generate_pitch(n_clicks, company_name, current_data):
 
 # Run the app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run_server(host='0.0.0.0', port=8080, debug=True)
