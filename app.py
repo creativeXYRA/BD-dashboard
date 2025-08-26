@@ -2,7 +2,7 @@
 
 # Step 1: Environment Setup
 # Note: For Google Colab, you need to install the cytoscape library.
-!pip install dash-cytoscape
+
 
 # Step 2: Imports
 from dash import Dash, html, dcc, dash_table, Input, Output, State
