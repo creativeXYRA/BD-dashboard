@@ -47,4 +47,3 @@ app.layout = html.Div(
 if __name__ == '__main__':
     logging.info("Running the server locally.")
     app.run_server(host='0.0.0.0', port=port, debug=False)
-
