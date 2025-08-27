@@ -1,4 +1,6 @@
 dash
-plotly
 pandas
+plotly
 dash-cytoscape
+gunicorn
+
